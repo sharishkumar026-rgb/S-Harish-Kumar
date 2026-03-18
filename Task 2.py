@@ -114,8 +114,6 @@ print("24:", (num // 10) % 10)
 num = int(input("Enter 5-digit number: "))
 print("25:", num % 10)
 
-
-
 # IF STATEMENT (26–30)
 
 # 26
